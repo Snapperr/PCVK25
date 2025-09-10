@@ -1,3 +1,3 @@
-# PCVK 2025
+# Pengolahan Citra dan Visi Komputer (PCVK) 
 
 Isi Tugas PCVK 
